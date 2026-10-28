@@ -1,0 +1,19 @@
+{
+  "name": "anshbackend",
+  "version": "1.0.0",
+  "description": "backend for ansh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree-fork/nut-js": "^4.2.6",
+    "open": "^11.0.4",
+    "screenshot-desktop": "^1.15.7",
+    "sharp": "^0.35.5",
+    "tesseract.js": "^7.0.0",
+    "uia-tree": "^0.1.1"
+  }
+}
